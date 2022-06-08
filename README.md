@@ -1,6 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left">
-
+### Hi there 
  Hi, I am [Riccardo Soldan](https://www.linkedin.com/in/riccardo-soldan-80633782/), a passionate computational ecologist. I have recently finished my Ph.D. at the University of Oxford and I am now working at FAO as climate risk and data specialist. 
 My repos are mainly about research work in the field of microbial ecology but please check out my recent work at FAO [here](https://github.com/OCBteam), especially [CHAT](https://github.com/OCBteam/Climate-HAzard-Toolbox-CHAT-). 
    
