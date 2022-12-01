@@ -1,6 +1,6 @@
 ### Hi there 
- Hi, I am [Riccardo Soldan](https://www.linkedin.com/in/riccardo-soldan-80633782/), a passionate computational ecologist. I have recently finished my Ph.D. at the University of Oxford and I am now working at FAO as climate risk and data specialist. 
-My repos are mainly about research work in the field of microbial ecology but please check out my recent work at FAO [here](https://github.com/Risk-Team), especially [CAVA Analytics](https://github.com/Risk-Team/CAVA-Analytics) and [cavaR](https://github.com/Risk-Team/cavaR).
+ Hi, I am [Riccardo Soldan](https://www.linkedin.com/in/riccardo-soldan-80633782/). I hold a Ph.D. in Interdisciplinary Bioscience from the University of Oxford. Currently, I am now working at FAO as Climate Risks and Data Dpecialist. 
+Check out my recent work at FAO [here](https://github.com/Risk-Team), especially [CAVA Analytics](https://github.com/Risk-Team/CAVA-Analytics) and [cavaR](https://github.com/Risk-Team/cavaR).
    
  **Languages and Tools:**  
 
