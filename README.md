@@ -22,5 +22,3 @@ I work on building tools and frameworks that bridge **geospatial data, machine l
 - **DevOps**: Docker | GitHub Actions | Conda/Poetry | Linux  
 
 ---
-
-⭐ If you find my work useful, feel free to [give a star](https://github.com/RSO9192) – it really helps!  
