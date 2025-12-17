@@ -17,8 +17,8 @@ I work on building tools and frameworks that bridge **geospatial data, machine l
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python | R  | Bash  
-- **Geospatial**: Google Earth Engine | QGIS | terra | rasterio  
+- **Languages**: R | Python  | Bash  
+- **Geospatial**: Google Earth Engine | terra | xarray  
 - **DevOps**: Docker | GitHub Actions | Conda/Poetry | Linux  
 
 ---
