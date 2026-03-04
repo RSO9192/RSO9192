@@ -5,11 +5,6 @@ I work on building tools and frameworks that bridge **geospatial data, machine l
 
 ---
 
-## ⚡ GitHub Stats  
-[![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RSO9192&show_icons=true&theme=radical)](https://github.com/RSO9192)
-
----
-
 ## 🌱 What I'm Working On  
 - 🌍 **CAVA framework** – Democratising access and usability of climate information  
 - 📊 **Open-source tools** – reproducible workflows for climate risk & ESS  
@@ -17,8 +12,8 @@ I work on building tools and frameworks that bridge **geospatial data, machine l
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: R | Python  | Bash  
+- **Languages**: R | Python  | Bash (if really needed)  
 - **Geospatial**: Google Earth Engine | terra | xarray  
-- **DevOps**: Docker | GitHub Actions | Conda/Poetry | Linux  
+- **DevOps**: Docker | GitHub Actions | Conda/Poetry
 
 ---
