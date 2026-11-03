@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Riccardo
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 I work at the intersection of **climate science, data, AI, and sustainable development**, using quantitative and computational methods to support **risk assessment, risk management, and decision-making**.
 
 My work combines climate, geospatial, socio-economic, and other data sources to understand risks, identify where they matter most, and support practical responses across different countries and contexts.
