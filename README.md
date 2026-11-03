@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Riccardo
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
 
 I work at the intersection of **climate science, data, AI, and sustainable development**, using quantitative and computational methods to support **risk assessment, risk management, and decision-making**.
 
