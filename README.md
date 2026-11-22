@@ -20,9 +20,4 @@ My broader interest is in using **data, science, and technology to improve how r
 
 ---
 
-## 🛠️ Technologies
-
-**R · Python · APIs · LLMs · RAG**
-
----
 
